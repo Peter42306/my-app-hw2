@@ -1,6 +1,73 @@
-body{
+.App {
+  max-width: 100vw; /* Предотвращает контейнер от выхода за пределы экрана */
+  overflow-x: hidden; /* Отключает горизонтальную прокрутку */
+  padding: 10px; /* Отступы вокруг контента */  
+}
+
+.container{
+  display: flex;
+  gap: 10px;
+}
+.container-column{
+  gap: 10px;
+}
+
+/* .block-photo{
+  width: 100%;
+}
+.block-photo img{
+  width: 100%;
+  height: auto;
+} */
+
+.block-bookPhoto{
+  width: 20%;
+}
+.block-bookPhoto img{
+  width: 100%;
+  height: auto;
+}
+.block-bookInfo{
+  width: 20%;
+}
+.block-bookReview{
+  width: 60%;
+}
+
+.style-task {
+  margin: 2px;
+  padding: 2px;
+  font-family: 'Century Gothic';
+  color: blue;
+}
+
+.style-review{
+  margin: 2px;
+  padding: 2px;
+  font-family:'Courier New';
+}
+
+
+@media (max-width: 768px) {
+  .App{
+    padding: 5px;
+  }
+
+  .container {
+      flex-direction: column;
+      width: 100%;
+      gap: 20px;
+      padding: 10px;
+  }
+
+  .block-bookInfo, .block-bookReview, .block-bookPhoto {
+      width: 100%;
+  }  
+}
+
+/* body{
   background-color: burlywood;
-};
+}; */
 
 
 /* 
