@@ -1,5 +1,7 @@
 React. Task 1. Book. Mobile view
 ![image](https://github.com/user-attachments/assets/b1470f18-ec65-450d-a634-c277f1850a83) 
+
+React. Task 1. Book. Mobile view
 ![image](https://github.com/user-attachments/assets/c4b95642-63f2-4526-977d-e12cd8042608)
 
 React. Task 1. Book. Monitor view
