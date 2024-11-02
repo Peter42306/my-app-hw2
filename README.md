@@ -1,3 +1,10 @@
+React. Task 2. Group
+![image](https://github.com/user-attachments/assets/2342ed0e-c149-4ffe-8b3c-1692a59c828b)
+React. Task 2. Group
+![image](https://github.com/user-attachments/assets/b884f4ea-56a2-416b-bb00-926dc30f6b90)
+React. Task 2. Group 
+![image](https://github.com/user-attachments/assets/d13bda4f-47f6-4b0c-836e-b9bc069eefcf)
+
 React. Task 1. Book. Mobile view
 ![image](https://github.com/user-attachments/assets/b1470f18-ec65-450d-a634-c277f1850a83) 
 
