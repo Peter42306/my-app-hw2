@@ -4,7 +4,95 @@
   padding: 10px; /* Отступы вокруг контента */  
 }
 
-.container{
+.container-task{
+  gap: 10px;
+}
+.container-task-styles{
+  margin: 2px;
+  padding: 2px;
+  font-family: 'Century Gothic';
+  color: blue;
+}
+
+.container-group{
+  display: flex;
+  gap: 10px;
+}
+.block-group-photo{
+  width: 40%;
+}
+.block-group-photo img{
+  width: 100%;
+  height: auto;
+}
+.block-group-description{
+  width: 60%;
+}
+.block-group-name-style{
+  margin: 2px;
+  padding: 2px;
+  font-family: 'Engravers MT';
+}
+.block-group-description-style{
+  margin: 2px;
+  padding: 2px;
+  font-family: 'Calibri';
+}
+
+.container-group-member{
+  display: flex;
+  gap: 10px;
+}
+.container-group-member-style{
+  margin: 2px;
+  padding: 2px;
+  font-family: 'Calibri';
+}
+.block-group-member-photo{
+  width: 20%;  
+}
+.block-group-member-photo img{
+  width: 100%;
+  height: auto;
+}
+.block-group-member-info{
+  width: 20%;
+}
+.block-group-member-description{
+  width: 60%;
+}
+
+.container-albums-all{
+  display: flex;
+  gap: 10px;
+}
+.container-album{
+  width: 25%;
+  text-align: center;
+  gap: 1px;
+}
+.container-album img{
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .container-group,
+  .container-group-member,
+  .container-albums-all {
+    flex-direction: column;
+  }
+  .block-group-photo,
+  .block-group-description,
+  .block-group-member-photo,
+  .block-group-member-info,
+  .block-group-member-description,
+  .container-album {
+    width: 100%;
+  }  
+}
+
+/* .container{
   display: flex;
   gap: 10px;
 }
@@ -12,13 +100,13 @@
   gap: 10px;
 }
 
-/* .block-photo{
+.block-photo{
   width: 100%;
 }
 .block-photo img{
   width: 100%;
   height: auto;
-} */
+}
 
 .block-bookPhoto{
   width: 20%;
@@ -63,8 +151,10 @@
   .block-bookInfo, .block-bookReview, .block-bookPhoto {
       width: 100%;
   }  
-}
+} */
 
+
+/* The first task */
 /* body{
   background-color: burlywood;
 }; */

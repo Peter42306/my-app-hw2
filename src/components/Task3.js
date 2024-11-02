@@ -65,10 +65,10 @@ export class MyHWComponentBookReview2 extends React.Component{
 }
 
 export class MyHWComponentBookPhoto extends React.Component {
-    render() {
+    render() {        
         return (
             <div className="block-photo">
-                <img src={bookPhoto}/>
+                <img src={bookPhoto} alt="photo"/>
             </div>
         );
     }
