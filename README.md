@@ -1,9 +1,23 @@
-![image](https://github.com/user-attachments/assets/b1470f18-ec65-450d-a634-c277f1850a83) ![image](https://github.com/user-attachments/assets/c4b95642-63f2-4526-977d-e12cd8042608)
+React. Task 2. Group
+![image](https://github.com/user-attachments/assets/2342ed0e-c149-4ffe-8b3c-1692a59c828b)
+React. Task 2. Group
+![image](https://github.com/user-attachments/assets/b884f4ea-56a2-416b-bb00-926dc30f6b90)
+React. Task 2. Group 
+![image](https://github.com/user-attachments/assets/d13bda4f-47f6-4b0c-836e-b9bc069eefcf)
 
+React. Task 1. Book. Mobile view
+![image](https://github.com/user-attachments/assets/b1470f18-ec65-450d-a634-c277f1850a83) 
+
+React. Task 1. Book. Mobile view
+![image](https://github.com/user-attachments/assets/c4b95642-63f2-4526-977d-e12cd8042608)
+
+React. Task 1. Book. Monitor view
 ![image](https://github.com/user-attachments/assets/92d9df14-af33-48d2-9233-d1689b46cca4)
 
+React first test page
 ![image](https://github.com/user-attachments/assets/de13d441-70da-4773-b111-7bac6582d623)
 
+React first page
 ![image](https://github.com/user-attachments/assets/ce2ee7ea-4e79-4133-83e1-a75d5e49e782)
 
 
