@@ -13,7 +13,7 @@ export class MyHWComponentTaskNumber extends React.Component{
     render(){
         return(
             <div className="style-task">
-                <h2>Задание 2</h2>
+                <h2>React First App</h2>
             </div>
         );
     }
@@ -23,7 +23,7 @@ export class MyHWComponentTaskDescription extends React.Component{
     render(){
         return (
             <div className="style-task">
-                <p>Создайте и запустите приложение React, выводящее информацию о ашей любимой музыкальной группе в браузер. Например: название группы, информация об участниках группы, название альбомов, обложки альбомов.</p>
+                <p>Create and run a React application that displays information about your favorite music band in the browser. For example: the name of the band, information about its members, album titles, and album covers.</p>
                 <hr></hr>
             </div>
         ); 
